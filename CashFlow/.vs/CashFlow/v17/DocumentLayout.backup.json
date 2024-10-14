@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{9DE1AADB-D1B3-4590-A396-F6BD7185C4E8}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{640437CB-FB05-4C5A-8A09-3B5F3928D2CC}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.communication\\responses\\responseerrorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640437CB-FB05-4C5A-8A09-3B5F3928D2CC}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|solutionrelative:src\\cashflow.communication\\responses\\responseerrorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C66A215C-173B-4AFF-BE5F-F5A4E56DDF07}|src\\CashFlow.Application\\CashFlow.Application.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C66A215C-173B-4AFF-BE5F-F5A4E56DDF07}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640437CB-FB05-4C5A-8A09-3B5F3928D2CC}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.communication\\responses\\responseregisteredexpensejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{640437CB-FB05-4C5A-8A09-3B5F3928D2CC}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|solutionrelative:src\\cashflow.communication\\responses\\responseregisteredexpensejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640437CB-FB05-4C5A-8A09-3B5F3928D2CC}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.communication\\requests\\requestregisterexpensejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{640437CB-FB05-4C5A-8A09-3B5F3928D2CC}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|solutionrelative:src\\cashflow.communication\\requests\\requestregisterexpensejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,47 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RequestRegisterExpenseJson.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "RelativeToolTip": "src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:59:04.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResponseRegisteredExpenseJson.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Communication\\Responses\\ResponseRegisteredExpenseJson.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Communication\\Responses\\ResponseRegisteredExpenseJson.cs",
-              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Communication\\Responses\\ResponseRegisteredExpenseJson.cs",
-              "RelativeToolTip": "src\\CashFlow.Communication\\Responses\\ResponseRegisteredExpenseJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:52:34.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterExpenseUseCase.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:50:26.895Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -75,9 +32,35 @@
               "RelativeDocumentMoniker": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
               "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
               "RelativeToolTip": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T11:12:08.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseErrorJson.cs",
+              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Communication\\Responses\\ResponseErrorJson.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Communication\\Responses\\ResponseErrorJson.cs",
+              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Communication\\Responses\\ResponseErrorJson.cs",
+              "RelativeToolTip": "src\\CashFlow.Communication\\Responses\\ResponseErrorJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:42:34.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterExpenseUseCase.cs",
+              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:50:26.895Z",
               "EditorCaption": ""
             }
           ]

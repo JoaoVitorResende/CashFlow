@@ -8,6 +8,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{60E2B834-0306-4280-A9AC-74B0FD0CEB6E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashFlow.Api", "src\CashFlow.Api\CashFlow.Api.csproj", "{9DE1AADB-D1B3-4590-A396-F6BD7185C4E8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B90EB038-4620-42D2-A691-5E658E68EFF3} = {B90EB038-4620-42D2-A691-5E658E68EFF3}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashFlow.Domain", "src\CashFlow.Domain\CashFlow.Domain.csproj", "{B90EB038-4620-42D2-A691-5E658E68EFF3}"
 EndProject
@@ -19,7 +22,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashFlow.Application", "src
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashFlow.Infrastucture", "src\CashFlow.Infrastucture\CashFlow.Infrastucture.csproj", "{EAD09382-BE43-45EE-94E1-4CACFDD18F9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validators.Test", "tests\Validators.Test\Validators.Test.csproj", "{982B6F46-BA5D-477C-BDF6-C0743C27AFF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validators.Test", "tests\Validators.Test\Validators.Test.csproj", "{982B6F46-BA5D-477C-BDF6-C0743C27AFF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

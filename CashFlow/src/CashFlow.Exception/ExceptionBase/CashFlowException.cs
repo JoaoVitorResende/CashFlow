@@ -5,4 +5,6 @@ public abstract class CashFlowException: System.Exception
     {
         
     }
+    public abstract int StatusCode {  get; }
+    public abstract List<string> GetErros();
 }

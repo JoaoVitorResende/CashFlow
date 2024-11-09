@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B90EB038-4620-42D2-A691-5E658E68EFF3}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.domain\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90EB038-4620-42D2-A691-5E658E68EFF3}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|solutionrelative:src\\cashflow.domain\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C66A215C-173B-4AFF-BE5F-F5A4E56DDF07}|src\\CashFlow.Application\\CashFlow.Application.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.application\\usecases\\users\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66A215C-173B-4AFF-BE5F-F5A4E56DDF07}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\users\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90EB038-4620-42D2-A691-5E658E68EFF3}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90EB038-4620-42D2-A691-5E658E68EFF3}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|solutionrelative:src\\cashflow.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B40FBFA8-4910-43FB-BFE1-136AF55250A8}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{B40FBFA8-4910-43FB-BFE1-136AF55250A8}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90EB038-4620-42D2-A691-5E658E68EFF3}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.domain\\enuns\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90EB038-4620-42D2-A691-5E658E68EFF3}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|solutionrelative:src\\cashflow.domain\\enuns\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C66A215C-173B-4AFF-BE5F-F5A4E56DDF07}|src\\CashFlow.Application\\CashFlow.Application.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.application\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66A215C-173B-4AFF-BE5F-F5A4E56DDF07}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE1AADB-D1B3-4590-A396-F6BD7185C4E8}|src\\CashFlow.Api\\CashFlow.Api.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE1AADB-D1B3-4590-A396-F6BD7185C4E8}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResourceErrorMessages.resx",
+              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
+              "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ResourceErrorMessages.resx",
+              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
+              "RelativeToolTip": "src\\CashFlow.Exception\\ResourceErrorMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-09T21:36:23.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Expense.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Domain\\Entities\\Expense.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Domain\\Entities\\Expense.cs",
-              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Domain\\Entities\\Expense.cs",
-              "RelativeToolTip": "src\\CashFlow.Domain\\Entities\\Expense.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Title": "RegisterUserValidator.cs",
+              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
+              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T13:42:34.3Z",
+              "WhenOpened": "2024-11-09T21:07:09.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Role.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Domain\\Enuns\\Role.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Domain\\Enuns\\Role.cs",
-              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Domain\\Enuns\\Role.cs",
-              "RelativeToolTip": "src\\CashFlow.Domain\\Enuns\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Title": "RegisterUserUseCase.cs",
+              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T13:40:12.078Z"
+              "WhenOpened": "2024-11-09T20:40:50.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Domain\\Entities\\User.cs",
-              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "src\\CashFlow.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\CashFlow.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T13:34:54.507Z"
+              "WhenOpened": "2024-11-09T20:36:36.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

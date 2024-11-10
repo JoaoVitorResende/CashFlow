@@ -144,4 +144,7 @@
   <data name="NAME_EMPTY" xml:space="preserve">
     <value>The name mustn't be empty</value>
   </data>
+  <data name="INVALID_PASSWORD" xml:space="preserve">
+    <value>The password is invalid</value>
+  </data>
 </root>

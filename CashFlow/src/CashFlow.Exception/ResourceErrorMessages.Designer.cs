@@ -97,6 +97,15 @@ namespace CashFlow.Exception {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The e-mail is already registred.
+        /// </summary>
+        public static string EMAILS_EXISTS {
+            get {
+                return ResourceManager.GetString("EMAILS_EXISTS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The payment type must be one of the options.
         /// </summary>
         public static string ENUMTYPE_ERROR {

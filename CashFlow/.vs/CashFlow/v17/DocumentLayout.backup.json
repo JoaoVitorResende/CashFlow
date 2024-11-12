@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C66A215C-173B-4AFF-BE5F-F5A4E56DDF07}|src\\CashFlow.Application\\CashFlow.Application.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.application\\usecases\\password\\passowordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C66A215C-173B-4AFF-BE5F-F5A4E56DDF07}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\password\\passowordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAD09382-BE43-45EE-94E1-4CACFDD18F9A}|src\\CashFlow.Infrastucture\\CashFlow.Infrastucture.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.infrastucture\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD09382-BE43-45EE-94E1-4CACFDD18F9A}|src\\CashFlow.Infrastucture\\CashFlow.Infrastucture.csproj|solutionrelative:src\\cashflow.infrastucture\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C66A215C-173B-4AFF-BE5F-F5A4E56DDF07}|src\\CashFlow.Application\\CashFlow.Application.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.application\\usecases\\users\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C66A215C-173B-4AFF-BE5F-F5A4E56DDF07}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\users\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAD09382-BE43-45EE-94E1-4CACFDD18F9A}|src\\CashFlow.Infrastucture\\CashFlow.Infrastucture.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.infrastucture\\security\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD09382-BE43-45EE-94E1-4CACFDD18F9A}|src\\CashFlow.Infrastucture\\CashFlow.Infrastucture.csproj|solutionrelative:src\\cashflow.infrastucture\\security\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C66A215C-173B-4AFF-BE5F-F5A4E56DDF07}|src\\CashFlow.Application\\CashFlow.Application.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.application\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C66A215C-173B-4AFF-BE5F-F5A4E56DDF07}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90EB038-4620-42D2-A691-5E658E68EFF3}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|e:\\downloads\\git\\cashflow\\cashflow\\src\\cashflow.domain\\security\\cryptography\\ipasswordencripter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90EB038-4620-42D2-A691-5E658E68EFF3}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|solutionrelative:src\\cashflow.domain\\security\\cryptography\\ipasswordencripter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PassowordValidator.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Password\\PassowordValidator.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Password\\PassowordValidator.cs",
-              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Password\\PassowordValidator.cs",
-              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Password\\PassowordValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "DependencyInjectionExtension.cs",
+              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Infrastucture\\DependencyInjectionExtension.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Infrastucture\\DependencyInjectionExtension.cs",
+              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Infrastucture\\DependencyInjectionExtension.cs",
+              "RelativeToolTip": "src\\CashFlow.Infrastucture\\DependencyInjectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T21:45:36.078Z",
+              "WhenOpened": "2024-11-11T22:03:51.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegisterUserValidator.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
-              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
-              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAbAAAAAAAAAA==",
+              "Title": "Cryptography.cs",
+              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Infrastucture\\Security\\Cryptography.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Infrastucture\\Security\\Cryptography.cs",
+              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Infrastucture\\Security\\Cryptography.cs",
+              "RelativeToolTip": "src\\CashFlow.Infrastucture\\Security\\Cryptography.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T21:07:09.529Z",
+              "WhenOpened": "2024-11-11T21:51:43.328Z",
               "EditorCaption": ""
             },
             {
@@ -58,9 +62,22 @@
               "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
               "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
               "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T20:40:50.097Z",
+              "WhenOpened": "2024-11-11T21:45:46.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPasswordEncripter.cs",
+              "DocumentMoniker": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Domain\\Security\\Cryptography\\IPasswordEncripter.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Domain\\Security\\Cryptography\\IPasswordEncripter.cs",
+              "ToolTip": "E:\\Downloads\\Git\\CashFlow\\CashFlow\\src\\CashFlow.Domain\\Security\\Cryptography\\IPasswordEncripter.cs",
+              "RelativeToolTip": "src\\CashFlow.Domain\\Security\\Cryptography\\IPasswordEncripter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:44:29.003Z",
               "EditorCaption": ""
             }
           ]

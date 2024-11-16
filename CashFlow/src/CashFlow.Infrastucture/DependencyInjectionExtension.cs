@@ -4,7 +4,7 @@ using CashFlow.Domain.Repositories.Users;
 using CashFlow.Domain.Security.Cryptography;
 using CashFlow.Infrastucture.DataAccess;
 using CashFlow.Infrastucture.DataAccess.Repositories;
-using CashFlow.Infrastucture.Security;
+using CashFlow.Infrastucture.Security.CryptographyPassWord;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

@@ -150,4 +150,7 @@
   <data name="EMAILS_EXISTS" xml:space="preserve">
     <value>The e-mail is already registred</value>
   </data>
+  <data name="EMAIL_OR_PASSWORD_INVALID" xml:space="preserve">
+    <value>The email or password was invalid</value>
+  </data>
 </root>
